@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundimageshomepage"
+    tools:context=".CatFMoment">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="414dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginBottom="660dp"
+        android:background="#009688"
+        android:text="CAT FUNNY MOMENT"
+        android:textAlignment="center"
+        android:textColor="#131313"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.142" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="415dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="777dp"
+        android:layout_marginBottom="64dp"
+        android:background="#009688"
+        android:text="Please enjoy the video. Thank you"
+        android:textAlignment="center"
+        android:textColor="#0E0E0E"
+        android:textColorHighlight="#231A1A"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="428dp"
+        android:layout_height="39dp"
+        android:background="#009688"
+        android:text="TIKTOK"
+        android:textAlignment="center"
+        android:textColor="#151414"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.177" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="123dp"
+        android:layout_height="108dp"
+        android:text="@string/link"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.286" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="434dp"
+        android:layout_height="35dp"
+        android:background="#009688"
+        android:text="INSTAGRAM"
+        android:textAlignment="center"
+        android:textColor="#121010"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="97dp"
+        android:layout_height="107dp"
+        android:text="@string/link2"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.53" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="94dp"
+        android:layout_height="115dp"
+        android:text="@string/link3"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.809" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="423dp"
+        android:layout_height="38dp"
+        android:background="#009688"
+        android:text="YOUTUBE"
+        android:textAlignment="center"
+        android:textColor="#0D0E0E"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.66" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

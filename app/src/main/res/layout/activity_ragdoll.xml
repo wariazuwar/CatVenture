@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#673AB7"
+    tools:context=".Ragdoll">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="415dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="194dp"
+        android:layout_marginBottom="502dp"
+        android:background="#009688"
+        android:text="RAGDOLL"
+        android:textAlignment="center"
+        android:textColor="#F2FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="416dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginBottom="427dp"
+        android:background="#FFEB3B"
+        android:justificationMode="none"
+        android:text="HEIGHT: 11 to 13 inches"
+        android:textAlignment="center"
+        android:textColor="#673AB7"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="410dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="314dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="383dp"
+        android:background="#FFEB3B"
+        android:text="WEIGHT: 15 to 20 pounds"
+        android:textAlignment="center"
+        android:textColor="#673AB7"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="410dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="357dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="296dp"
+        android:background="#FFEB3B"
+        android:text="COAT AND COLOR \n Medium-length and silky with many different colors and patterns with blue eyes"
+        android:textAlignment="center"
+        android:textColor="#673AB7"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="415dp"
+        android:layout_height="29dp"
+        android:layout_marginTop="448dp"
+        android:layout_marginBottom="255dp"
+        android:background="#FFEB3B"
+        android:text="LIFE EXPECTANCY: 15 to 25 years"
+        android:textAlignment="center"
+        android:textColor="#673AB7"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="488dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="51dp"
+        android:background="#FFEB3B"
+        android:text="PERSONALITY \n  Ragdoll cats are gentle and affectionate, known for their laid-back nature. They are social, enjoy human interaction, and are good with families. Their moderate energy level makes them adaptable, and their grooming needs are manageable with regular care."
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="94dp"
+        android:layout_marginBottom="565dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ragdoll" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

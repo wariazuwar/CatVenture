@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundimageshomepage"
+    tools:context=".BuildHealthyLifestyle">
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="406dp"
+        android:layout_height="38dp"
+        android:background="#009688"
+        android:text="Cat healthy lifestyle"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#151515"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.044" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="406dp"
+        android:layout_height="664dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="109dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="204dp"
+        android:contextClickable="false"
+        android:text="Balanced Diet: Provide a balanced and appropriate diet based on your cat's age, weight, and specific dietary needs. \n\nFresh Water: Ensure your cat has access to clean, fresh water at all times. \n\nRegular Exercise: Engage your cat in daily physical activity through play, interactive toys, and environmental enrichment. \n\nLitter Box Care: Keep the litter box clean by scooping waste daily and changing the litter regularly. \n\nGrooming: Brush your cat's coat regularly to prevent matting and reduce shedding. \n\nVeterinary Care: Schedule regular check-ups with your veterinarian for vaccinations, dental care, and overall health assessments. \n\nDental Care: Monitor your cat's dental health and discuss dental cleanings with your vet as needed. \n\nWeight Management: Monitor your cat's weight to prevent obesity, which can lead to various health problems. \n\nSocial Interaction: Spend quality time with your cat, providing mental stimulation and companionship. \n\nEnvironmental Enrichment: Create a safe and enriched environment with scratching posts, interactive toys, and cozy resting places."
+        android:textAlignment="inherit"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.104" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

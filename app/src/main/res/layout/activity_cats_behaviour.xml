@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundimageshomepage"
+    tools:context=".CatsBehaviour">
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="418dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginBottom="822dp"
+        android:background="#009688"
+        android:text="CATS BEHAVIOUR"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#151313"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="379dp"
+        android:layout_height="768dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="33dp"
+        android:text="1. Grooming: Cats are meticulous groomers, spending a significant amount of time cleaning themselves to regulate body temperature and keep their fur clean. \n\n 2. Scratching: Scratching is a natural behavior that helps cats maintain healthy claws, mark territory, and stretch their muscles. Providing scratching posts can help redirect this behavior. \n\n 3.Purring: Cats purr for various reasons, including contentment, relaxation, and as a means of communication with their owners. \n\n 4.Playfulness: Cats are playful animals, engaging in activities that develop hunting skills, provide mental stimulation, and allow them to expend energy. \n\n 5.Sleeping: Cats sleep a lot, averaging around 12-16 hours a day. This behavior is natural and necessary for their well-being. \n\n 6.Vocalization: Cats use vocalizations such as meowing, purring, hissing, and growling to communicate with humans and other animals. The context and tone of the vocalization can convey different messages.  \n\n 7.Kneading: Kneading is a repetitive motion of pushing their paws against a soft surface, often associated with contentment and comfort. \n\n 8.Hiding: Cats may hide when they feel stressed, scared, or unwell. Providing a quiet and secure space allows them to retreat when needed. \n\n 9.Hunting Instinct: Even indoor cats may exhibit hunting behavior, stalking, pouncing, and batting at toys to express their natural instincts. \n\n 10.Affection: Cats show affection through various behaviors such as rubbing against you, headbutting, sitting on your lap, or purring. Each cat has its unique way of expressing love."
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CatVenture</string>
+        <string name="link">
+         <ul><li><a href ="https://www.tiktok.com/@petsau/video/7256375674661915905">Video 1 </a></li></ul>
+
+            <ul><li><a href ="https://www.tiktok.com/@joe_rain0/video/7135532864547851526?is_from_webapp=1sender_device=pc">Video 2 </a></li></ul>
+
+            <ul><li><a href ="https://www.tiktok.com/@cat_cult0.o/video/7225252051922554118?is_from_webapp=1sender_device=pc">Video 3 </a></li></ul>
+        </string>
+    <string name="link2">
+         <ul><li><a href ="https://www.instagram.com/reel/CdErnaXqt2z/?utm_source=ig_web_copy_linkigshid=MzRlODBiNWFlZA==">Video 1 </a></li></ul>
+
+            <ul><li><a href ="https://www.instagram.com/p/CZIu3eNJDzU/?utm_source=ig_web_copy_linkigshid=MzRlODBiNWFlZA==">Video 2 </a></li></ul>
+
+            <ul><li><a href ="https://www.instagram.com/p/CY_wPYKpegt/?utm_source=ig_web_copy_linkigshid=MzRlODBiNWFlZA==">Video 3 </a></li></ul>
+        </string>
+    <string name="link3">
+         <ul><li><a href ="https://www.youtube.com/shorts/XM1NTfC-f08?feature=share">Video 1 </a></li></ul>
+
+            <ul><li><a href ="https://www.youtube.com/shorts/6U7gV7KDEOI?feature=share">Video 2 </a></li></ul>
+
+            <ul><li><a href ="https://www.youtube.com/shorts/-_aMgxyQo_8?feature=share">Video 3 </a></li></ul>
+        </string>
+</resources>
